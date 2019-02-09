@@ -1,10 +1,26 @@
+## About Me
+
+I'm 26 years old. I was born in Minsk. In 13 years I entered the Suvorov Military School.
+He received higher education in Russia and then returned to Belarus. I'm married.
+
 ## My Career
 
-I'm information security specialist. I started working in 2014 in the Ministry of Defense. Since 2018 I have been working in another company.
+I'm information security specialist. I started working in 2014 in the Ministry of Defense.
+Since 2018 I have been working in another company. I have four years of experience in the 
+development and maintenance of military systems, lottery information systems, and others. 
+My primary responsibility is testing these penetration systems.
 
-### Markdown
+## My Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Programming
+I started programming in the Suvorov Military School. At that time it seemed amasing to me and and now nothing has changed so I'm doing it now. I like programming.
+
+### Sport
+
+
+
+### Books
+
 
 ```markdown
 Syntax highlighted code block
