@@ -25,6 +25,36 @@ healty you have to do sports.
 I like reading books. I usually read adventure books.
 
 ##     Tasks URL
-#Padawans Tasks
+
+#     Padawans Tasks
+
 [FancyCalc](https://github.com/fynjy21/FancyCalc)
+
+[PadawansTask1](https://github.com/fynjy21/PadawansTask1)
+
+[PadawansTask2](https://github.com/fynjy21/PadawansTask2)
+
+[PadawansTask3](https://github.com/fynjy21/PadawansTask3)
+
+[PadawansTask4](https://github.com/fynjy21/PadawansTask4)
+
+[PadawansTask5](https://github.com/fynjy21/PadawansTask5)
+
+[PadawansTask6](https://github.com/fynjy21/PadawansTask6)
+
+[PadawansTask7](https://github.com/fynjy21/PadawansTask7)
+
+[PadawansTask8](https://github.com/fynjy21/PadawansTask8)
+
+[PadawansTask9](https://github.com/fynjy21/PadawansTask9)
+
+[PadawansTask10](https://github.com/fynjy21/PadawansTask10)
+
+[PadawansTask11](https://github.com/fynjy21/PadawansTask11)
+
+[PadawansTask12](https://github.com/fynjy21/PadawansTask12)
+
+##      Codewars Task
+
+
 
