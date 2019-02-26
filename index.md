@@ -56,5 +56,7 @@ I like reading books. I usually read adventure books.
 
 ##      Codewars Task
 
+[My profile on Codewars](https://www.codewars.com/users/fynjy21/completed)
+
 
 
